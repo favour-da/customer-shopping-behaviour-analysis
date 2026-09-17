@@ -1,4 +1,4 @@
-# customer-shopping-behaviour-analysis
+# Customer-Shopping-Behaviour-Analysis
 # Retail Customer Shopping Behavior Analysis
 
 **Client Engagement:** TRYBEFUSE &nbsp;|&nbsp; **Analytics Partner:** Veritics
